@@ -12,7 +12,7 @@ from telebot import types
 
 # =============== CONFIG ===============
 BOT_TOKEN = "8888797788:AAESoaHHyIm9yxPryp1AtexNCXMb8n63rZk"
-ADMIN_ID = 8855682617
+ADMIN_ID = 8011795436
 DEV = "@z_0_y2"
 VERSION = "⤷ ᴠ𝟼.𝟶"
 AUTHOR = "⤷ @z_0_y2"
