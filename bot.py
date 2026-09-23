@@ -11,11 +11,11 @@ from datetime import datetime, timedelta
 from telebot import types
 
 # =============== CONFIG ===============
-BOT_TOKEN = "8987302946:AAG2QdPIe9vhbjOn2fRLb9hQsUlQSKa9ZTk"
-ADMIN_ID = 8855682617
-DEV = "@N_0_130"
+BOT_TOKEN = "8888797788:AAESoaHHyIm9yxPryp1AtexNCXMb8n63rZk"
+ADMIN_ID = 8011795436
+DEV = "@z_0_y2"
 VERSION = "⤷ ᴠ𝟼.𝟶"
-AUTHOR = "⤷ @N_0_130"
+AUTHOR = "⤷ @z_0_y2"
 
 # =============== البوابات ===============
 GATEWAY_AUTH = "𝗦𝘁𝗿𝗶𝗽𝗲 𝗔𝘂𝘁𝗵"
