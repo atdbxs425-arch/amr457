@@ -13,7 +13,7 @@ from telebot import types
 
 # =============== CONFIG ===============
 # يتم قراءة التوكن والأدمن من متغيرات البيئة تلقائياً أو استخدام القيمة الافتراضية
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8348644269:AAFqxVpdt0nVfFXh2SiL0EISiPULGmMfC9g")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8845237235:AAEUoBvgyX_76TdqTAfjB2cO5oAzJqkFM5g")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "8011795436"))
 DEV = "@z_0_y2"
 VERSION = "⤷ ᴠ𝟼.𝟶"
